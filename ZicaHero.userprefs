@@ -1,10 +1,22 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\SelecionarNoTeclado.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Personagem\CharacterBaseControl.cs">
     <Files>
       <File FileName="Assets\spritefont_and_other\document_and_picturelist\readme.txt" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Menu\CarregarCena.cs" Line="9" Column="35" />
-      <File FileName="Assets\Scripts\Menu\SelecionarNoTeclado.cs" Line="26" Column="14" />
+      <File FileName="Assets\Scripts\Menu\CarregarCena.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Menu\SelecionarNoTeclado.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterMovementModel.cs" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\Character.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterHealthModel.cs" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterMovementView.cs" Line="38" Column="23" />
+      <File FileName="Assets\Scripts\Personagem\CharacterTouchControl.cs" Line="54" Column="62" />
+      <File FileName="Assets\Scripts\Personagem\CharacterMovementAdvancedView.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterMovementAdvancedModel.cs" Line="66" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterKeyboardControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterInteractionView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterInteractionModel.cs" Line="39" Column="14" />
+      <File FileName="Assets\Scripts\Personagem\CharacterBaseControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Personagem\CharacterAnimationListener.cs" Line="23" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
